@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kunal kishor
+- 👋 Hi, I’m @kunalkishor1
 - 👀 I’m interested in web devloping,python and c++ programing language 
 - 🌱 I’m currently learning python and c language and i am in college and studies computer application course 
 - 💞️ I’m looking to collaborate on devloaping or coading projects
