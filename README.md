@@ -1,9 +1,15 @@
-- 👋 Hi, I’m @kunalkishor1
-- 👀 I’m interested in web devloping,python and c++ programing language 
-- 🌱 I’m currently learning python and c language and i am in college and studies computer application course 
-- 💞️ I’m looking to collaborate on devloaping or coading projects
+- 👋 Hi, I’m @Kunal Kishor – a passionate developer from Bengaluru, India.
+- 💻 What I Do:
+-   Full-stack developer specializing in React.js, Node.js, and Python.
+    Enthusiast in AI/ML, open-source contributions, and cloud technologies.
+- 📚 What I’m Learning:
+    Advanced DevOps practices (Docker, Kubernetes)
+    Exploring cutting-edge AI frameworks 
+ 🎯 My Goals:
+   Contribute to impactful open-source projects
+   Build innovative solutions to real-world problems
+ 📫 Let’s Connect:
+   Feel free to explore my repositories or reach out to collaborate on exciting projects!
+   This bio is professional yet engaging. If you'd like me to tweak it further or add specific details, let me know! 😊
 - 📫 How to reach me whatsapp number is 6205625053
-<!---
-kunalkishor1/kunalkishor1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
